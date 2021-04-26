@@ -399,7 +399,7 @@
                 </div>
             </a>
 
-            <a class="h-100" href="https://albertoroldanq.com/projects/color-game">
+            <a class="h-100" href="https://albertoroldanq.github.io/projects/color-game">
                 <div class="card hovereffect">
                     <img src="./imgs/projects-img/color-game.png" class="card-img-top" alt="...">
                     <div class="card-body overlay d-none d-lg-block">
