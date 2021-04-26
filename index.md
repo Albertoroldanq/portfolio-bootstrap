@@ -399,7 +399,7 @@
                 </div>
             </a>
 
-            <a class="h-100" href="https://albertoroldanq.github.io/projects/color-game">
+            <a class="h-100" href="/projects/color-game">
                 <div class="card hovereffect">
                     <img src="./imgs/projects-img/color-game.png" class="card-img-top" alt="...">
                     <div class="card-body overlay d-none d-lg-block">
@@ -409,7 +409,7 @@
                 </div>
             </a>
 
-            <a class="h-100" href="https://albertoroldanq.com/projects/todo-list">
+            <a class="h-100" href="/projects/todo-list">
                 <div class="card hovereffect">
                     <img src="./imgs/projects-img/todo-list.png" class="card-img-top" alt="...">
                     <div class="card-body overlay d-none d-lg-block">
