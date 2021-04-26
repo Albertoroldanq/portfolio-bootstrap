@@ -389,7 +389,7 @@
                 </div>
             </a>
 
-            <a class="h-100" href="https://albertoroldanq.com/projects/gallery">
+            <a class="h-100" href="projects/gallery.html">
                 <div class="card hovereffect">
                     <img src="./imgs/projects-img/gallery.png" class="card-img-top" alt="...">
                     <div class="card-body overlay d-none d-lg-block">
@@ -409,7 +409,7 @@
                 </div>
             </a>
 
-            <a class="h-100" href="/projects/todo-list">
+            <a class="h-100" href="/projects/todo-list.html">
                 <div class="card hovereffect">
                     <img src="./imgs/projects-img/todo-list.png" class="card-img-top" alt="...">
                     <div class="card-body overlay d-none d-lg-block">
@@ -419,7 +419,7 @@
                 </div>
             </a>
 
-            <a class="h-100" href="https://albertoroldanq.com/projects/patatap">
+            <a class="h-100" href="/projects/patatap.html">
                 <div class="card hovereffect">
                     <img src="./imgs/projects-img/patatap.png" class="card-img-top" alt="...">
                     <div class="card-body overlay d-none d-lg-block">
