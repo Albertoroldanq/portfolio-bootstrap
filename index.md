@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<title>Alberto Roldan 💻 Web Developer</title>
+<meta name="title" content="Alberto Roldan - Web Developer">
+<meta name="description" content="Let me show you my teamwork skills and motivation to work as a Web Developer.">
+
+<meta property="og:image" content="https://albertoroldanq.com/cover.png">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://albertoroldanq.com/">
+<meta property="og:title" content="Alberto Roldan - Web Developer">
+<meta property="og:description" content="Let me show you my teamwork skills and motivation to work as a Web Developer.">
+
+<meta property="twitter:image" content="https://albertoroldanq.com/cover.png">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://albertoroldanq.com/">
+<meta property="twitter:title" content="Alberto Roldan - Web Developer">
+<meta property="twitter:description" content="Let me show you my teamwork skills and motivation to work as a Web Developer.">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta charset="utf-8">
+<meta name="author" content="Alberto Roldan">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157837781-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-157837781-1');
+    </script>
+
+    <!-- Fav Icon -->
+   <link rel="shortcut icon" type="image/x-icon" href="imgs/favicon.ico" />
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+        crossorigin="anonymous">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="app.css">
+
+</head>
+
+<body class="row col-12 mx-0 px-0">
+    
+<!-- NAVIGATION BAR -->
+    <nav id="mainNavbar"class="navbar navbar-expand-lg navbar-dark sticky-top pt-2 pt-lg-0 col-12">
+
+        <a class="navbar-brand flex-row mb-0 mb-lg-0" href="https://albertoroldanq.com"><span>albertoroldan</span><span id="q-nav">q</span></a>
+        <button  id="button-nav" class="navbar-toggler mt-0" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+          <span id="nav-button" class="navbar-toggler-icon align-self-center"><i class="fas fa-bars"></i></span>
+        </button>
+
+        <div class="collapse navbar-collapse mt-1" id="navbarTogglerDemo02">
+
+            <ul class="navbar-nav mr-auto mt-0 mt-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link mt-1 mx-lg-2 py-1" href="#intro">About <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link mt-1 mx-lg-2 py-1" href="#work">Work</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link mt-1 mx-lg-2 py-1" href="#footer" tabindex="-1" aria-disabled="true">Contact</a>
+                </li>
+            </ul>
+
+            <div class="my-1 my-lg-0 d-flex block">
+               <div class="nav-item mx-1">
+                    <a href="mailto:me@albertoroldanq.com" class="nav-link p-1" alt="envelope-icon">
+                        <i class="fas fa-envelope"></i>
+                    </a>
+                </div>
+                <div  class="nav-item mx-1">
+                    <a href="https://linkedin.com/in/albertoroldanq" target="_blank" class="nav-link p-1" alt="linkedin-icon">
+                        <i class="fab fa-linkedin-in"></i>
+                    </a>
+                 </div>
+                 <div class="nav-item mr-1">
+                    <a href="https://dev.to/albertoroldanq" target="_blank" class="nav-link p-1" alt="dev-icon">
+                        <i class="fab fa-dev"></i>
+                    </a>
+                </div>
+                <div class="nav-item mr-1">
+                    <a href="https://twitter.com/albertoroldanq" target="_blank" class="nav-link p-1" alt="twitter-icon">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </nav>
+
+    <!-- COVER SECTION -->
+    <section id="cover" class="row col-12 px-0 mx-0 d-block flex-row align-items-center justify-content-center content mt-0 mb-0">
+        
+        <div class="row col-12 mx-0 px-0 align-items-center justify-content-center mt-0">
+            <div class="col-10">
+                <div id="headingGroup" class="text-white text-center d-lg-block mb-5 mt-4">
+                    <h1 class="mt-3 mt-md-5">WEB DEVELOPER</h1>
+                    <h2>Let's make it happen</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="row col-12 px-0 mx-0 align-items-center justify-content-center">
+            <div class="col-10 d-flex justify-content-center my-3">
+                <img class="img-fluid img-profile mt-0" src="imgs/Alberto-Roldan.png" alt="Alberto Roldan Profile Picture">
+            </div>
+        </div>
+
+        <div class="row col-12 px-0 mx-0 align-items-center justify-content-center">
+            <div class="col-lg-10 justify-content-center mt-5">
+                <img id="distro-img" class="img-fluid d-block mx-auto" src="imgs/distro-38.png" alt="">
+            </div>
+        </div>
+
+    </section>
+
+    <!-- INTRO SECTION -->
+    <section id="intro" class="row col-12 px-0 mx-0 align-items-start justify-content-center mt-0 mb-0">
+
+        <div class="row col-12 px-0">
+            <div class="d-flex flex-row align-items-start justify-content-center content col-12 px-0 my-0 mb-md-3 mt-md-3">
+                <div class="col-10 col-md-8">
+                    <div id="introGroup" class="text-center d-lg-block my-0 my-lg-5 py-5">
+                        <h2 class="mb-3">Hi, I'm Alberto. Nice to meet you.</h2>
+                        <p class="">If you're here is probably because you need a Web Developer for your team.</p>
+                        <h3>That's me!</h3>
+                        <p class="mb-0">I am naturally curious, confident, and a great team player. Several years of work experience have helped me develop skills such as empathy, awareness, and sense for business.
+                            Let me show you my teamwork skills and motivation to work as a Web Developer.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <!-- SKILLS SECTION -->
+    <section id="skills" class="skills row col-12 px-0 py-0 my-0 mx-0">
+
+        <!-- SKILLS 1 TEXT-->
+        <div id="skills1"class="row col-12 px-0 mx-0 align-items-start content my-0">
+            <div class="col-lg-6 text-center px-0 align-self-center">
+                <div class="row justify-content-center col-12 my-0 mx-0 px-0">
+                    <div id="skills1-text" class="col-10 col-lg-7 mb-5 mt-0 mt-lg-3 px-0">
+                        <img src="imgs/skill-icon-41.png" alt="" class="d-block mx-auto mt-4 mb-5 icon">
+                        <p class="lead mt-3">I develop each project with the most suitable tools to achieve the best results. I value simple content structures and user friendly websites
+                        </p>
+                        <h3 class="mb-2 mt-5">I speak</h3>
+                        <p class="lead">HTML, CSS, JavaScript
+                        </p>
+                        <p class="mb-1 mt-2">and</p>
+                        <p class="lead">English, Catalan, Spanish
+                        </p>
+                        <h3 class="mb-2 mt-5">Development tools</h3>
+                        <p class="lead list-item">VS Code, Chrome DevTools, Wordpress, Bootstrap, Oxygen, Codepen, Github
+                        </p>
+                        <h3 class="mb-2 mt-5">Creativity tools</h3>
+                        <p class="lead list-item">Illustrator, Sketch, Unsplash, FontAwesome</p>
+                        <div class="row col-10 flex-row d-flex justify-content-center align-items-center mt-5 mx-auto">
+                            <a href="mailto:me@albertoroldanq.com" class="nav-link icon p-1 d-flex align-items-center mr-4" alt="envelope-icon"><i class="fas fa-envelope"></i></a>
+                            <form action="#work" method="get">
+                                <button href="#work" type="submit" class="btn btn-work btn-dark my-0 d-inline" alt="projects-link">Recent Work</button>
+                            </form>
+                        </div>      
+                    </div>
+                </div>
+            </div>
+
+            <!-- SKILLS 1 PICTURES DESKTOP -->
+            <div id="" class="skills-imgs-lg d-lg-block d-none col-lg-6 px-0 h-100">
+                <div id="carouselExampleInterval1-lg" class="carousel slide h-100" data-ride="carousel">
+                    <div class="carousel-inner h-100">
+                        <div class="carousel-item h-100" data-interval="2000">
+                            <div id="skills1-img1-lg" class="d-block w-100 h-100" alt="whiteswissshepherd">
+                            </div>
+                        </div>  
+                        <div class="carousel-item h-100" data-interval="2000">
+                            <div id="skills1-img2-lg" class="d-block w-100 h-100" alt="whiteswissshepherd">
+                            </div>
+                        </div>
+                        <div class="carousel-item active h-100" data-interval="2000">
+                            <div id="skills1-img3-lg" class="d-block w-100 h-100" alt="whiteswissshepherd">
+                            </div>
+                        </div>
+                        <div class="carousel-item h-100" data-interval="2000">
+                            <div id="skills1-img4-lg" class="d-block w-100 h-100" alt="whiteswissshepherd">
+                            </div>
+                        </div>
+                        <div class="carousel-item h-100" data-interval="2000">
+                            <div id="skills1-img5-lg" class="d-block w-100 h-100" alt="whiteswissshepherd">
+                            </div>
+                        </div>
+                        <div class="carousel-item h-100" data-interval="2000">
+                            <div id="skills1-img6-lg" class="d-block w-100 h-100" alt="whiteswissshepherd">
+                            </div>
+                        </div>
+                    </div>
+                        <a class="carousel-control-prev" href="#carouselExampleInterval1-lg" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleInterval1-lg" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                </div>
+            </div>
+
+            <!-- SKILLS 1 PICTURES DEVICES SMALLER THAN LARGE SIZE -->
+            <div id="" class="skills-imgs d-lg-none d-block col-lg-6 px-0">
+                <div id="carouselExampleInterval1" class="carousel slide h-100" data-ride="carousel">
+                    <div class="carousel-inner h-100">
+                        <div class="carousel-item h-100" data-interval="2000">
+                            <div id="skills1-img1" class="d-block w-100 h-100" alt="whiteswissshepherd">
+                            </div>
+                        </div>  
+                        <div class="carousel-item h-100" data-interval="2000">
+                            <div id="skills1-img2" class="d-block w-100 h-100" alt="whiteswissshepherd">
+                            </div>
+                        </div>
+                        <div class="carousel-item active h-100" data-interval="2000" alt="whiteswissshepherd">
+                            <div id="skills1-img3" class="d-block w-100 h-100">
+                            </div>
+                        </div>
+                        <div class="carousel-item h-100" data-interval="2000">
+                            <div id="skills1-img4" class="d-block w-100 h-100" alt="whiteswissshepherd">
+                            </div>
+                        </div>
+                        <div class="carousel-item h-100" data-interval="2000">
+                            <div id="skills1-img5" class="d-block w-100 h-100" alt="whiteswissshepherd">
+                            </div>
+                        </div>
+                        <div class="carousel-item h-100" data-interval="2000">
+                            <div id="skills1-img6" class="d-block w-100 h-100" alt="whiteswissshepherd">
+                            </div>
+                        </div>
+                    </div>
+                        <a class="carousel-control-prev" href="#carouselExampleInterval1" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleInterval1" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- SKILLS 2 BLOCK -->
+        <div id="skills2" class="skills-img-lg row col-12 px-0 mx-0 align-items-start content my-0">
+
+            <!-- SKILLS 2 PICTURES DESKTOP // The order between text and pictures will change in devices view. The text will go first (order-lg-1 order-2)  -->
+            <div id="" class="skills-imgs-lg d-lg-block d-none col-lg-6 px-0 h-100 order-lg-1 order-2" alt="dog-images">
+                <div id="carouselExampleInterval2-lg" class="carousel slide h-100" data-ride="carousel">
+                    <div class="carousel-inner h-100">
+                        <div class="carousel-item h-100" data-interval="2000">
+                            <div id="skills2-img1-lg" class="d-block w-100 h-100" alt="browndog">
+                            </div>
+                        </div>  
+                        <div class="carousel-item h-100" data-interval="2000">
+                            <div id="skills2-img2-lg" class="d-block w-100 h-100" alt="browndog">
+                            </div>
+                        </div>
+                        <div class="carousel-item active h-100" data-interval="2000">
+                            <div id="skills2-img3-lg" class="d-block w-100 h-100" alt="browndog">
+                            </div>
+                        </div>
+                        <div class="carousel-item h-100" data-interval="2000">
+                            <div id="skills2-img4-lg" class="d-block w-100 h-100" alt="browndog">
+                            </div>
+                        </div>
+                    </div>
+                        <a class="carousel-control-prev" href="#carouselExampleInterval2-lg" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleInterval2-lg" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                </div>
+            </div>
+
+            <!-- SKILLS 2 PICTURES DEVICES SMALLER THAN LARGE SIZE // The order between text and pictures will change in devices view. The text will go first (order-lg-1 order-2) -->
+            <div id="" class="skills-imgs d-lg-none d-block col-lg-6 px-0 order-lg-1 order-2">
+                <div id="carouselExampleInterval2" class="carousel slide h-100" data-ride="carousel">
+                    <div class="carousel-inner h-100">
+                        <div class="carousel-item h-100" data-interval="2000">
+                            <div id="skills2-img1" class="d-block w-100 h-100" alt="browndog">
+                            </div>
+                        </div>  
+                        <div class="carousel-item h-100" data-interval="2000">
+                            <div id="skills2-img2" class="d-block w-100 h-100" alt="browndog">
+                            </div>
+                        </div>
+                        <div class="carousel-item active h-100" data-interval="2000">
+                            <div id="skills2-img3" class="d-block w-100 h-100" alt="browndog">
+                            </div>
+                        </div>
+                        <div class="carousel-item h-100" data-interval="2000">
+                            <div id="skills2-img4" class="d-block w-100 h-100" alt="browndog">
+                            </div>
+                        </div>
+                    </div>
+                        <a class="carousel-control-prev" href="#carouselExampleInterval2" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleInterval2" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                </div>
+            </div>
+
+            <!-- SKILLS 2 TEXT // The order between text and pictures will change in devices view. The text will go first (order-1 order-lg-2) -->
+            <div class="col-lg-6 text-center px-0 align-self-center order-1 order-lg-2">
+                <div class="row justify-content-center col-12 my-0 mx-0 px-0">
+                    <div id="skills2-text" class="col-10 col-lg-7 mb-5 mt-3 px-0">
+                        <img src="imgs/skill-icon-41.png" alt="" class="d-block mx-auto mt-4 mb-5 icon">
+                        <p class="lead">I keep learning and improving. I am professionally connected with the web development industry through experienced and successful resources
+                        </p>
+                        <h3 class="mb-2 mt-5">Achieved Certifications</h3>
+                            <p class="lead">
+                                <a class="link-text" target="_blank" href="https://credentials.edx.org/credentials/418b62146fad4ad38c99f09f322832ed/">
+                                    Professional Front-End Web Developer,
+                                </a>
+                                <a class="link-text" target="_blank" href="https://www.freecodecamp.org/certification/albertoroldanq/responsive-web-design">
+                                    Responsive Web Design Developer
+                                </a>
+                            </p>
+                            <h3 class="mb-2 mt-5">Learning</h3>
+                            <p class="lead list-item">JS, jQuery, Node JS, Express JS, MongoDB</p>
+                            <h3 class="mb-2 mt-5">Involved in the community</h3>
+                            <p class="lead list-item">Regularly attending <a class="link-text" target="_blank" href="https://twitter.com/CodeUpChester">CodeUp Chester</a>  and <a class="link-text" href="https://twitter.com/LadiesofCodeLPL">Ladies of Code Liverpool</a> meetups. I also volunteer in two non-profit organisations in Liverpool as Social Media Assistant and Support Tutor for disabled people
+                            </p>
+                        <div class="row col-10 flex-row d-flex justify-content-around align-items-center py-3 mt-5 mx-auto">
+                            <form action="https://www.linkedin.com/in/albertoroldanq" method="get" target="_blank">
+                                <button  type="submit" class="btn-work btn btn-linkedin btn-dark my-0 d-inline" alt="linkedin-profile-link">
+                                    <div class="row flex-row d-flex justify-content-around align-items-center mt-0 mx-auto">
+                                           Know me better <i class=" px-2 fab fa-linkedin-in"></i>
+                                    </div>
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- NOTE ABOUT DOGS PICTURES -->
+        <div id="note" class="text-center d-lg-block my-0 py-2 py-lg-5 px-lg-5 mx-lg-0">
+                <p class="note px-4 py-5 px-lg-5 mx-lg-3 mb-0">
+                    WARNING! The previous content contains images that may be too cute to some users.<br><br>
+                    As you may have noticed, there are some photos that might confuse. However, these two guys are certainly relevant in my life, they also represent some values I believe in such as <strong>loyalty, reliability, inclusiveness, and the strongly willingness to learn and collaborate</strong>.
+                    <br><br>I hope these two ones have made you stop to pay slightly more attention than any other random image instead. 
+                </p>
+        </div>
+    </section>
+
+     <!-- WORK SECTION -->
+    <!-- HOVER EFFECT SOURCE: https://miketricking.github.io/bootstrap-image-hover/ -->
+    <section id="work" class="row col-12 pt-5 px-0 mx-0 align-items-start justify-content-center mt-0 mb-0">
+        <!-- <h2 class="my-5 pb-5 text-center">Recent work</h2> -->
+        <div> 
+            <h2 class="mt-5 pb-2 text-center">Recent work</h2>
+            <h3 class="mt-5 pb-2 text-center d-none">AVAILABLE PROJECTS SOON</h3>
+            <blockquote class="pb-5 px-3 text-center d-none">The shoemaker's son always goes barefoot.</blockquote>
+        </div>
+    
+        <div class="card-columns no-gutters mt-5">
+
+            <a class="h-100" href="https://formadefusta.com">
+                <div class="card hovereffect">
+                    <img src="./imgs/projects-img/formadefusta.png" class="card-img-top" alt="...">
+                    <div class="card-body overlay d-none d-lg-block">
+                        <h5 class="card-title">FORMA DE FUSTA</h5>
+                        <p class="card-text">Wordpress<br>Oxygen Builder<br>CSS<br>HTML</p>
+                    </div>
+                </div>
+            </a>
+
+            <a class="h-100" href="https://albertoroldanq.com/projects/gallery">
+                <div class="card hovereffect">
+                    <img src="./imgs/projects-img/gallery.png" class="card-img-top" alt="...">
+                    <div class="card-body overlay d-none d-lg-block">
+                        <h5 class="card-title">WILDLIFE GALLERY</h5>
+                        <p class="card-text">BOOTSTRAP<br>CSS<br>HTML</p>
+                    </div>
+                </div>
+            </a>
+
+            <a class="h-100" href="https://albertoroldanq.com/projects/color-game">
+                <div class="card hovereffect">
+                    <img src="./imgs/projects-img/color-game.png" class="card-img-top" alt="...">
+                    <div class="card-body overlay d-none d-lg-block">
+                        <h5 class="card-title">COLOR GAME</h5>
+                        <p class="card-text">Javascript<br>CSS<br>HTML</p>
+                    </div>
+                </div>
+            </a>
+
+            <a class="h-100" href="https://albertoroldanq.com/projects/todo-list">
+                <div class="card hovereffect">
+                    <img src="./imgs/projects-img/todo-list.png" class="card-img-top" alt="...">
+                    <div class="card-body overlay d-none d-lg-block">
+                        <h5 class="card-title">TO-DO LIST</h5>
+                        <p class="card-text">JavaScript<br>jQuery Library<br>CSS<br>HTML </p>
+                    </div>
+                </div>
+            </a>
+
+            <a class="h-100" href="https://albertoroldanq.com/projects/patatap">
+                <div class="card hovereffect">
+                    <img src="./imgs/projects-img/patatap.png" class="card-img-top" alt="...">
+                    <div class="card-body overlay d-none d-lg-block">
+                        <h5 class="card-title">PATATAP</h5>
+                        <p class="card-text">PaperJS<br>HowlerJS<br>Canvas<br>CSS<br>HTML</p>
+                    </div>
+                </div>
+            </a>
+
+            <a class="h-100 d-none" href="">
+                <div class="card hovereffect">
+                    <img src="imgs/dog-imgs/whitedog6.jpg" class="card-img-top" alt="...">
+                    <div class="card-body overlay d-none d-lg-block">
+                        <h5 class="card-title">Card title that wraps to a new line</h5>
+                        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    </div>
+                </div>
+            </a>
+            
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="container-fluid px-0">
+        <div class="footer row col-12 px-0 mx-0 align-items-center justify-content-center py-5 mt-0 mb-0">
+            <div class="d-flex flex-row align-items-start justify-content-center my-2 mb-md-3 mt-md-3 row col-12">
+                <div class="col-12 col-md-10 my-5 row justify-content-center d-flex">
+                    <div id="footer" class="text-center justify-content-center align-self-center row col-10 col-lg-6 d-block mb-0 py-0">
+                        <a class=" navbar-brand flex-row px-0 mx-0 mb-0 mb-lg-0" href="https://albertoroldanq.com"><span>albertoroldan</span><span id="q-footer">q</span></a>
+                        <p class="mt-2 mb-4">Living, learning, and leveling up.</p>
+                        <div class="row col-12 col-md-6 col-xl-6 col-lg-7 d-flex justify-content-center align-items-center px-0 mx-auto">
+                            
+                          <div class="col-12 px-lg-0 mt-0 mb-2 px-0 flex-row d-flex justify-content-around align-items-center">
+                                
+                            <div class="nav-item mx-0">
+                                    <a href="mailto:me@albertoroldanq.com" class="nav-link p-1">
+                                        <i class="fas fa-envelope" alt="envelope-icon"></i>
+                                    </a>
+                                </div>
+                                <div  class="nav-item mx-0">
+                                    <a href="https://www.linkedin.com/in/albertoroldanq" target="_blank" class="nav-link p-1" alt="linkedin-icon">
+                                        <i class="fab fa-linkedin-in"></i>
+                                    </a>
+                                 </div>
+                                 <div class="nav-item mr-0">
+                                    <a href="https://dev.to/albertoroldanq" target="_blank" class="nav-link p-1" alt="dev-icon">
+                                        <i class="fab fa-dev"></i>
+                                    </a>
+                                </div>
+                                    <div class="nav-item mr-0 ">
+                                        <a href="https://twitter.com/albertoroldanq" target="_blank" class="nav-link p-1" alt="twitter-icon">
+                                            <i class="fab fa-twitter"></i>
+                                        </a>
+                                    </div>
+
+                            </div> 
+                        </div>
+                    </div>
+                </div>
+                <a class="twitter-timeline" data-height="300" data-width="600" data-theme="dark" href="https://twitter.com/albertoroldanq?ref_src=twsrc%5Etfw" data-tweet-limit="1" data-chrome="noheader nofooter noborders noscrollbar transparent"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+        </div>
+    </footer>
+   
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+
+        <!-- Popper.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+
+        <!-- Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
+
+        <!-- Font Awesome -->
+    <script src="https://kit.fontawesome.com/5b176a6be4.js" crossorigin="anonymous"></script>
+
+</body>
+
+</html>		
